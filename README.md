@@ -33,8 +33,10 @@ Próximas mejoras
 
  Versión con interfaz gráfica (JFrame)
 
-Este proyecto está abierto a sugerencias y mejoras. Si querés colaborar, ¡sos más que bienvenida/o!
+Guardar historial de conversiones
+
+===Este proyecto está abierto a sugerencias y mejoras. Si querés colaborar, ¡sos más que bienvenida/o!===
 
 🧑‍💻 Autor
 Romina Martínez
- Guardar historial de conversiones
+ 
